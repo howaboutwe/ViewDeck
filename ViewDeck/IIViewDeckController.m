@@ -107,7 +107,6 @@ __typeof__(h) __h = (h);                                    \
 @property (nonatomic, retain) UIColor* originalShadowColor;
 @property (nonatomic, assign) CGSize originalShadowOffset;
 @property (nonatomic, retain) UIBezierPath* originalShadowPath;
-@property (nonatomic, retain) UIButton* centerTapper;
 @property (nonatomic, retain) UIView* centerView;
 @property (nonatomic, readonly) UIView* slidingControllerView;
 
